@@ -1,0 +1,13 @@
+C:\Users\sreis\Pictures\calculadora\calculadora13\calculadora13\bin\Debug\calculadora13.exe.config
+C:\Users\sreis\Pictures\calculadora\calculadora13\calculadora13\bin\Debug\calculadora13.exe
+C:\Users\sreis\Pictures\calculadora\calculadora13\calculadora13\bin\Debug\calculadora13.pdb
+C:\Users\sreis\Pictures\calculadora\calculadora13\calculadora13\bin\Debug\calculadora13.xml
+C:\Users\sreis\Pictures\calculadora\calculadora13\calculadora13\obj\Debug\calculadora13.vbproj.AssemblyReference.cache
+C:\Users\sreis\Pictures\calculadora\calculadora13\calculadora13\obj\Debug\calculadora13.vbproj.SuggestedBindingRedirects.cache
+C:\Users\sreis\Pictures\calculadora\calculadora13\calculadora13\obj\Debug\calculadora13.Form1.resources
+C:\Users\sreis\Pictures\calculadora\calculadora13\calculadora13\obj\Debug\calculadora13.Resources.resources
+C:\Users\sreis\Pictures\calculadora\calculadora13\calculadora13\obj\Debug\calculadora13.vbproj.GenerateResource.cache
+C:\Users\sreis\Pictures\calculadora\calculadora13\calculadora13\obj\Debug\calculadora13.vbproj.CoreCompileInputs.cache
+C:\Users\sreis\Pictures\calculadora\calculadora13\calculadora13\obj\Debug\calculadora13.exe
+C:\Users\sreis\Pictures\calculadora\calculadora13\calculadora13\obj\Debug\calculadora13.xml
+C:\Users\sreis\Pictures\calculadora\calculadora13\calculadora13\obj\Debug\calculadora13.pdb
